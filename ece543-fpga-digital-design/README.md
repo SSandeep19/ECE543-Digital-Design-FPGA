@@ -12,11 +12,13 @@ This course covers digital logic design and FPGA-based system implementation, wi
 - `labs/` — weekly lab assignments, alternating breadboard (TTL) and FPGA weeks
 - `reference-designs/` — instructor reference implementations
 
-## Hardware
+## Hardware for the course
 
 - **FPGA Platform:** Xilinx BASYS 3 and Digilent Cora Z7-07S (12 units)
-- **Toolchain:** Multisim and Xilinx Vivado / Vitis
 
+## Software for the course
+
+- **Toolchain:** Multisim and Xilinx Vivado / Vitis
 
 ## License
 
