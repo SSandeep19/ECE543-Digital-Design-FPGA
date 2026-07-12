@@ -1,0 +1,23 @@
+# Vivado / Vitis generated files
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/.Xil/
+*.gen/
+*.xpr
+*.bit
+*.mcs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
