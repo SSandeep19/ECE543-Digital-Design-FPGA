@@ -15,7 +15,7 @@ This course covers digital logic design and FPGA-based system implementation, wi
 ## Hardware
 
 - **FPGA Platform:** Xilinx BASYS 3 and Digilent Cora Z7-07S (12 units)
-- **Toolchain:** Simulink and Xilinx Vivado / Vitis
+- **Toolchain:** Multisim and Xilinx Vivado / Vitis
 
 
 ## License
